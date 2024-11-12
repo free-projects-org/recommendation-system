@@ -1,4 +1,4 @@
-## retail_sales
+## Recommendation System
 
 [Static Badge](https://img.shields.io/badge/Made_With_Python-blue)
 
