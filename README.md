@@ -13,14 +13,14 @@
 
 **Dicas de Uso**
 
-´´´
+```
 git clone https://github.com/free-projects-org/recommendation-system.git
-´´´
+```
 
-´´´
+```
 pip install -r requirements.txt
-´´´
+```
 
-´´´
+```
 pip > freeze requirements.txt
-´´´
+```
